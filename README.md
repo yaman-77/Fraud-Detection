@@ -81,7 +81,7 @@ The goal was to build an effective model that balances **high recall** (catching
    jupyter notebook "Fraud Detection.ipynb"
 
 
-📌 Future Work
+## 📌 Future Work
 
 Experiment with LightGBM and CatBoost for faster training and potential gains.
 
@@ -91,7 +91,7 @@ Deploy a real-time fraud detection API using FastAPI or Streamlit.
 
 Incorporate cost-sensitive evaluation (business impact of fraud vs false alarms).
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Python (pandas, numpy, matplotlib, seaborn)
 
